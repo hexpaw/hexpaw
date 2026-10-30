@@ -2,21 +2,7 @@
 
 ## About
 
-I'm based in [Seattle, Washington](https://en.wikipedia.org/wiki/Seattle), and my
-professional work revolves around [data masking](https://en.wikipedia.org/wiki/Data_masking).
-In practice that means a lot of automation across a lot of different systems —
-[Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) and
-[MSSQL](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) estates, Linux
-distributions of every vintage, and [Oracle](https://www.oracle.com/database/),
-which is where my specialty lies. Masking is what made me an Oracle DBA: you
-can't reliably obscure a schema you haven't had to learn.
 
-The work lands mostly in [Java](https://dev.java/),
-[Python](https://www.python.org/), and [SQL](https://en.wikipedia.org/wiki/SQL),
-with [PowerShell](https://learn.microsoft.com/powershell/) doing the plumbing
-across the Windows side. I still think
-[BASIC](https://en.wikipedia.org/wiki/BASIC) taught me more about how computers
-actually work than anything I've learned since.
 
 ## My Stack
 
