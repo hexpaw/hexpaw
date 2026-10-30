@@ -3,9 +3,8 @@
 ## About
 
 I'm based in [Seattle, Washington](https://en.wikipedia.org/wiki/Seattle), and my
-professional work revolves around [data
-masking](https://en.wikipedia.org/wiki/Data_masking). In practice that means a lot
-of automation across a lot of different systems —
+professional work revolves around [data masking](https://en.wikipedia.org/wiki/Data_masking).
+In practice that means a lot of automation across a lot of different systems —
 [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) and
 [MSSQL](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) estates, Linux
 distributions of every vintage, and [Oracle](https://www.oracle.com/database/),
